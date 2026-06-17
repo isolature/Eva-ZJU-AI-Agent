@@ -1,0 +1,4 @@
+dingtalk-stream      # 钉钉 Stream 模式 SDK（收消息 + AI 卡片）
+openai               # 调 DeepSeek（OpenAI 兼容接口，仅作 HTTP 客户端，非 agent 框架）
+requests             # 联网搜索(Tavily) + 校内 WebVPN 访问
+ZJUWebVPN            # 浙大 WebVPN：让校外服务器也能访问 zdbk 教务网（会带 pycryptodome/bs4）
